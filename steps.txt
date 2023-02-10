@@ -1,5 +1,8 @@
 Project steps:
 
+Step 0 - completed
+- set up github repository.
+
 Step 1.
 Explore SS.LV website, learn HTML structure.
 
@@ -22,3 +25,6 @@ Connect the parser and the Telegram Bot.
 
 Step 7.
 Deploy on GCP.
+
+Step 8.
+Fly to Vegas.
