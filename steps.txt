@@ -4,7 +4,9 @@ Step 1.
 Explore SS.LV website, learn HTML structure.
 
 Step 2.
-Learn how to parse HTML: https://realpython.com/beautiful-soup-web-scraper-python/
+Learn how to parse HTML: 
+a) https://realpython.com/beautiful-soup-web-scraper-python/
+b) https://www.youtube.com/watch?v=ng2o98k983k&t=2s
 
 Step 3.
 Create an HTML parser. Result: desired data outputed to console.
