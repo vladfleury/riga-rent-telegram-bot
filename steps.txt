@@ -1,0 +1,22 @@
+Project steps:
+
+Step 1.
+Explore SS.LV website, learn HTML structure.
+
+Step 2.
+Learn how to parse HTML: https://realpython.com/beautiful-soup-web-scraper-python/
+
+Step 3.
+Create an HTML parser. Result: desired data outputed to console.
+
+Step 4.
+Learn basic Telegram Bots (Timer Bot): https://python-telegram-bot.org/
+
+Step 5.
+Implement the Telegram Bot.
+
+Step 6.
+Connect the parser and the Telegram Bot.
+
+Step 7.
+Deploy on GCP.
